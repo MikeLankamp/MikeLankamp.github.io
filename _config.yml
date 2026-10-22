@@ -1,0 +1,6 @@
+# GitHub pages configuration
+
+markdown: GFM
+
+github:
+  is_project_page: false
